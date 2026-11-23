@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
+// One sentence, exactly as the bounty asks for it.
 const ENTRY =
   "On make.fun, tell an AI agent the app you wish existed and by tonight you will be showing friends a working version on your phone — no coding, no setup, just your idea.";
 
